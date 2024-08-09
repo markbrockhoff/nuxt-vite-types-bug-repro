@@ -1,9 +1,5 @@
-<script lang="ts" setup>
-import logo from '~/assets/logo.svg?url';
-</script>
+<script lang="ts" setup></script>
 
 <template>
-  <div>
-    <img :src="logo" />
-  </div>
+  <div>Hello World</div>
 </template>
